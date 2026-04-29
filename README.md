@@ -79,7 +79,7 @@
 
 ## 💬 Ask Me About
 
-`React` &nbsp;•&nbsp; `JavaScript / TypeScript` &nbsp;•&nbsp; `Full Stack Development` &nbsp;•&nbsp; `AI APIs` &nbsp;•&nbsp; `GSAP Animations` &nbsp;•&nbsp; `UI/UX Design` &nbsp;•&nbsp; `System Design`
+`React` &nbsp;•&nbsp; `JavaScript / TypeScript` &nbsp;•&nbsp; `Full Stack Development` &nbsp;•&nbsp; `AI APIs` &nbsp;•&nbsp; `UI/UX Design` &nbsp;•&nbsp; `System Design`
 
 ---
 
